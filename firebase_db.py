@@ -5,7 +5,7 @@ from firebase_config import db
 # 🔖 Firestore Collections
 # =========================================================
 USERS_COLLECTION = "users"
-
+print("Correct firebase_db loaded")
 # =========================================================
 # 👤 Authentication Functions
 # =========================================================
